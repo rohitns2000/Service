@@ -1,0 +1,26 @@
+[
+    {
+        "empId":1001,
+        "empName":"Abcd",
+        "empSalary":8881.11,
+        "empDepartment":"Java"
+    },
+    {
+        "empId":1002,
+        "empName":"Bcd",
+        "empSalary":6881.11,
+        "empDepartment":"Java"
+    },
+    {
+        "empId":1003,
+        "empName":"Cd",
+        "empSalary":881.11,
+        "empDepartment":".Net"
+    },
+    {
+        "empId":1004,
+        "empName":"Dabc",
+        "empSalary":56732,
+        "empDepartment":"Django"
+    }
+]
